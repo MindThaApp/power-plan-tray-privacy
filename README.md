@@ -1,8 +1,8 @@
-# Power Plan Manager privacy policy
+# PC Power Portal and Power Plan Manager privacy policy
 
-Last updated: 16 November 2026
+Last updated: 17 November 2026
 
-Power Plan Manager (Pro and Lite editions) is a Windows power-plan and battery-care app, made by MindtheApp. This page explains, in plain words, what the app does with your information. The short version: it does not collect usage data, analytics or telemetry, has no accounts and no advertising, and does not require an internet connection. The only information that can leave your PC for us is a crash report (sent automatically unless you turn it off) or a feedback message you choose to send, as described below.
+This policy covers PC Power Portal (formerly Power Plan Manager Pro) and Power Plan Manager (formerly Power Plan Manager Lite), two editions of the same Windows power-plan, fan and battery-care app made by MindtheApp. In this policy, "Power Plan Manager" and "the app" mean either edition. This page explains, in plain words, what the app does with your information. The short version: it does not collect usage data, analytics or telemetry, has no accounts and no advertising, and does not require an internet connection. The only information that can leave your PC for us is a crash report (sent automatically unless you turn it off) or a feedback message you choose to send, as described below.
 
 ## Crash reports
 
